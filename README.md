@@ -74,7 +74,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
   
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <a href="[https://postman.com](https://www.sourcetreeapp.com/)" target="_blank" rel="noreferrer"> 
     <img src="https://pics.freeicons.io/uploads/icons/png/17447841331551952105-512.png" alt="sourcetree" width="40" height="40"/> 
   </a> 
   
