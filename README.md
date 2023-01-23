@@ -10,7 +10,7 @@
 - 📫 How to reach me **nicolasdewae@protonmail.com**
 
 <p>
-  Currently, I am working as a web developer in alternance at Mésange prévoyance, where I am responsible for the development 
+  Currently, I'm working as a web developer in alternance at Mésange prévoyance, where I'm participating for the development 
   of an application for subscribing to insurance contracts, maintenance and ticket management. I also have experience in developing Cloudme, 
   a cloud service provisioning platform, and GestForm, an application for managing a school support center.
 </p>
