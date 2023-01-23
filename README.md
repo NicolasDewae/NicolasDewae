@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://nicolasdewae.github.io/basic_portfolio/](https://nicolasdewae.github.io/basic_portfolio/)
+- 👨‍💻 All of my projects are available on [https://nicolasdewae.github.io/basic_portfolio/](https://nicolasdewae.github.io/basic_portfolio/)
 
 - 📫 How to reach me **nicolasdewae@protonmail.com**
 
 <p>
-  Currently, I'm working as a web developer in alternance at Mésange prévoyance, where I'm participating for the development 
-  of an application for subscribing to insurance contracts, maintenance and ticket management. I also have experience in developing Cloudme, 
+  Currently working as a web developer for Mésange prévoyance 
+  on an application to subscribe insurance policies, maintenance and ticket management. I also have experience in developing Cloudme, 
   a cloud service provisioning platform, and GestForm, an application for managing a school support center.
 </p>
 <p>
-  I am excited to share my projects and experience with the community, and I am always open to feedback and suggestions. Thanks for visiting my repository!
+  I am excited to share my projects and experience with the community, and I am always open for feedbacks and suggestions. Thanks for visiting my repository!
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -79,5 +79,7 @@
   </a> 
   
 </p>
+
+<h3 align="left">Stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdewae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
